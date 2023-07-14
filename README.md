@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ```shell
 python main_python.py --model-type m --webcam-number 0
 ```
-- **model_type** Choose between "n" for nano, "s" for small, "m" for medium, "l" for large and "x" for x-large
-- **webcam_number** webcam number based on total webcams connected to your computer (if only one webcam is connected choose 0)
+- **model-type** Choose between "n" for nano, "s" for small, "m" for medium, "l" for large and "x" for x-large
+- **webcam-number** webcam number based on total webcams connected to your computer (if only one webcam is connected choose 0)
 
 
 
