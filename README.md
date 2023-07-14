@@ -33,8 +33,10 @@ python main_python.py --model-type m --webcam-number 0
 - **webcam-number** based on the total webcams connected to your computer (if only one webcam is connected choose 0)
 - Press "q" to quit
 
+
 <details><summary>Segmentation</summary>
-  
+
+
 See [YOLOv8](https://github.com/ultralytics/ultralytics) GitHub page for more info.
 See [Segmentation Docs](https://docs.ultralytics.com/tasks/segmentation/) for usage examples with these models.
 
