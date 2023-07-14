@@ -31,8 +31,7 @@ python main_python.py --model-type m --webcam-number 0
 ```
 - **model-type** Choose between "n" for nano, "s" for small, "m" for medium, "l" for large and "x" for x-large
 - **webcam-number** based on the total webcams connected to your computer (if only one webcam is connected choose 0)
-
-
+- Press "q" to quit
 
 <details><summary>Segmentation</summary>
   
