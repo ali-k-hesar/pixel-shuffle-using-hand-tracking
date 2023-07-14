@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img width="100%" src="https://github.com/ali-k-hesar/pixel-shuffle-using-hand-tracking/assets/85279433/725533c8-158e-4719-9221-5fd66bd28a7c"></a>
+    <img width="100%" src="https://github.com/ali-k-hesar/pixel-shuffle-using-hand-tracking/assets/85279433/273d59f3-2fa8-47c1-a951-2af9251345e8"></a>
   </p>
 </div>
 
