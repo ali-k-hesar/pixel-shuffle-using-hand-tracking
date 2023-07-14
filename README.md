@@ -58,7 +58,7 @@ See [Segmentation Docs](https://docs.ultralytics.com/tasks/segmentation/) for us
 ## Usage
 
 1. Connect a webcam to your computer.
-2. Run the application by executing the main.py script.
+2. Run the application by executing the main_python.py script.
 3. The webcam feed will open in a window, and the image processing effects will be applied in real-time.
 4. Press 'q' to exit the application.
 
