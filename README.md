@@ -65,4 +65,4 @@ See [Segmentation Docs](https://docs.ultralytics.com/tasks/segmentation/) for us
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for details.
