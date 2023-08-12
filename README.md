@@ -12,10 +12,11 @@ The image processing pipeline consists of multiple stages. Firstly, background r
 
 ## Installation
 
-#### 1. Clone the repository:
+#### 1. Clone the repository and change the directory:
 
 ```shell
 git clone https://github.com/ali-k-hesar/pixel-shuffle-using-hand-tracking.git
+cd pixel-shuffle-using-hand-tracking
 ```
 
 #### 2. Install the required dependencies:
