@@ -27,7 +27,8 @@ cd pixel-shuffle-using-hand-tracking
 #### 3. Install the required dependencies:
 
 ```shell
-
+pip install -r requirements.txt
+```
 
 #### 4. Download the background removal model weights and place them in the bg_models directory.
 
