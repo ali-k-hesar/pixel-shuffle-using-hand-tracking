@@ -12,20 +12,24 @@ The image processing pipeline consists of multiple stages. Firstly, background r
 
 ## Installation
 
-#### 1. Clone the repository and change the directory:
+#### 1. Clone the repository:
 
 ```shell
 git clone https://github.com/ali-k-hesar/pixel-shuffle-using-hand-tracking.git
+```
+
+#### 2. change the directory:
+
+```shell
 cd pixel-shuffle-using-hand-tracking
 ```
 
-#### 2. Install the required dependencies:
+#### 3. Install the required dependencies:
 
 ```shell
-pip install -r requirements.txt
-```
 
-#### 3. Download the background removal model weights and place them in the bg_models directory.
+
+#### 4. Download the background removal model weights and place them in the bg_models directory.
 
 ```shell
 python main_python.py --model-type m --webcam-number 0
