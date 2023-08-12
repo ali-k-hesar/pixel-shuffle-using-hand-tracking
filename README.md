@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ```
 
 #### 4. Download the background removal model weights and place them in the bg_models directory.
+#### If not provided model weights will be downloaded automatically.
 
 ```shell
 python main_python.py --model-type m --webcam-number 0
